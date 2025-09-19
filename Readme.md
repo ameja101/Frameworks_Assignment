@@ -38,3 +38,5 @@ This project was developed in **5 structured parts**:
 - Run locally with:
   ```bash
   streamlit run app.py
+- Can view on https://frameworksassignment-tvhjjg9gnevatumfjntb5d.streamlit.app/
+
