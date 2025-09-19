@@ -1,0 +1,13 @@
+cord19-project/
+│
+├── metadata_sample.csv         # dataset (or subset)
+├── notebook.ipynb              # your Jupyter notebook (Parts 1–5)
+├── app.py                      # Streamlit app
+├── requirements.txt            # list of dependencies
+├── README.md                   # project description
+├── charts/                     # (optional) save charts here
+│   ├── pubs_over_time.png
+│   ├── top_journals.png
+│   ├── wordcloud.png
+│   └── source_distribution.png
+
